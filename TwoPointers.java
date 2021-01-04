@@ -1,4 +1,4 @@
-package luvBabbar;
+package Algorithms;
 import java.util.Scanner;
 
 public class TwoPointers {
